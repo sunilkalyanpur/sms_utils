@@ -1,0 +1,16 @@
+*.egg
+*.egg-info
+*.log
+*.pid
+*.pyc
+*.so
+*.zip
+build/
+dist/
+.DS_Store
+*.idea
+*.avro
+*.databus
+*.rdb
+*.cache/
+
