@@ -6,10 +6,10 @@ requires = ['requests==2.13.0',
             'flatdict==1.2.0',
             'docopt==0.6.2']
 
-packages = ['sms-utils']
+packages = ['sms_utils']
 
 setup(
-    name='sms-utils',
+    name='sms_utils',
     version='0.1',
     url='',
     license='',
